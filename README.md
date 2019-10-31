@@ -1,4 +1,4 @@
-### GALA72-website-design
+### GALA72 Website Design
 
 Designed website for the club’s three-day New York student art weekend event "GALA72" to sell tickets and update info.
 
